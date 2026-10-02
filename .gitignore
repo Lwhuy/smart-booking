@@ -1,0 +1,6 @@
+# Local tool settings
+.claude/
+
+# Word lock/temp files
+~$*.docx
+.DS_Store
