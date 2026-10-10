@@ -11,6 +11,8 @@ Stack: Java (Spring Boot) · Python (FastAPI) · PostgreSQL · React
 | --- | --- |
 | [`SmartBook_PRD_v2.docx`](SmartBook_PRD_v2.docx) | Product requirements. Numbered requirements (FR-n.m), business rules (BR-01…BR-16), resolved product decisions (D-01…D-08), edge cases (EC-01…EC-10), metrics with targets, and a traceability matrix. |
 | [`SmartBook_Technical_Design_and_Project_Plan_v2.docx`](SmartBook_Technical_Design_and_Project_Plan_v2.docx) | Architecture, database schema, concurrency design, API, testing strategy, team split and the 10-week plan. |
+| [`SmartBook_4_Week_Implementation_Plan.docx`](SmartBook_4_Week_Implementation_Plan.docx) | Proposed four-week delivery scope for October 12–November 8, 2026. Pending team sign-off; does not replace the approved PRD v2. |
+| [`Four-week plan review`](docs/4-week-plan-review.md) | Content review against PRD v2 and technical design v2, with required clarifications before implementation. |
 | `SmartBook_PRD_v1.docx` | Superseded — kept for reference. |
 | `SmartBook_Technical_Design_and_Project_Plan_v1.docx` | Superseded — kept for reference. |
 
