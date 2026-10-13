@@ -5,6 +5,21 @@ activities. Student project — 3 third-year students, 10 weeks.
 
 Stack: Java (Spring Boot) · Python (FastAPI) · PostgreSQL · React
 
+## Repository structure
+
+| Path | Responsibility |
+| --- | --- |
+| `backend-java/` | Authoritative Spring Boot API and booking transactions |
+| `frontend/` | React customer and provider experience |
+| `ai-service-python/` | FastAPI natural-language search parser and ranking experiments |
+| `contracts/` | Shared API schemas and fixtures |
+| `deploy/` | Production deployment configuration |
+| `scripts/` | Setup, seed, demo, and verification commands |
+| `tests/` | Cross-service load and system tests |
+
+See [`docs/PROJECT_STRUCTURE.md`](docs/PROJECT_STRUCTURE.md) for the complete
+folder map and ownership boundaries.
+
 ## Documents
 
 | Document | Purpose |
