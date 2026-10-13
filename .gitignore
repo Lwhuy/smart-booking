@@ -3,4 +3,29 @@
 
 # Word lock/temp files
 ~$*.docx
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.idea/
+.vscode/
 .DS_Store
+
+# Java
+backend-java/target/
+
+# JavaScript
+frontend/node_modules/
+frontend/dist/
+
+# Python
+ai-service-python/.venv/
+ai-service-python/__pycache__/
+ai-service-python/.pytest_cache/
+
+# Test and build output
+coverage/
+*.log
